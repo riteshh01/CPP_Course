@@ -1,0 +1,182 @@
+C++ From Scratch to Advanced — Complete Syllabus (Index)
+
+1. Introduction
+	•	What is C++?
+	•	History & evolution
+	•	Installation & setup
+	•	How compilation works
+	•	Writing & running first program
+
+2. Basics of C++
+	•	Basic syntax
+	•	Structure of a program
+	•	Variables & data types
+	•	Constants & literals
+	•	Operators (All types)
+	•	Input/Output (cin, cout)
+	•	Comments
+	•	Control flow (if, else, switch)
+	•	Loops (for, while, do-while)
+	•	Break & continue
+
+3. Functions
+	•	Declaring & defining
+	•	Parameters & return values
+	•	Function overloading
+	•	Default arguments
+	•	Inline functions
+	•	Recursion
+	•	Passing by value vs reference
+
+4. Arrays & Strings
+	•	1D arrays
+	•	2D arrays
+	•	Multidimensional arrays
+	•	Array operations
+	•	C-style strings
+	•	std::string
+	•	String operations
+
+5. Pointers
+	•	Basics of pointers
+	•	Address & dereferencing
+	•	Pointer arithmetic
+	•	Null, wild & dangling pointers
+	•	Pointers & arrays relation
+	•	Pointer to pointer
+	•	Function pointers
+
+6. Memory Management
+	•	Stack vs Heap
+	•	new and delete
+	•	malloc & free (C-style)
+	•	Memory fragmentation
+	•	Memory leaks
+	•	Smart pointers (unique_ptr, shared_ptr, weak_ptr)
+	•	RAII concept
+
+7. Object-Oriented Programming (OOP)
+	•	Classes & objects
+	•	Access modifiers
+	•	Constructors & destructors
+	•	Static members
+	•	Encapsulation
+	•	Abstraction
+	•	Inheritance (all types)
+	•	Polymorphism
+	•	Compile-time
+	•	Runtime
+	•	Virtual functions
+	•	Abstract classes
+	•	Operator overloading
+	•	Copy constructor & deep copy
+	•	Rule of 3 & Rule of 5
+	•	Friend functions & classes
+
+8. File Handling
+	•	Text file operations
+	•	Binary file operations
+	•	File pointers
+	•	Reading/writing objects
+
+9. Exception Handling
+	•	try/catch blocks
+	•	Throwing exceptions
+	•	Exception hierarchy
+	•	Custom exceptions
+
+10. Namespaces & Modular Code
+	•	namespace basics
+	•	Using std wisely
+	•	Header files & multiple file projects
+
+11. Templates
+	•	Function templates
+	•	Class templates
+	•	Template specialization
+	•	Variadic templates
+	•	Type deduction
+
+12. Standard Template Library (STL)
+
+Containers
+	•	vector
+	•	list
+	•	deque
+	•	stack
+	•	queue
+	•	priority_queue
+	•	pair & tuple
+	•	set & unordered_set
+	•	map & unordered_map
+
+Iterators
+	•	Types of iterators
+	•	begin/end
+	•	auto keyword
+
+Algorithms
+	•	sort, stable_sort
+	•	find, binary_search
+	•	accumulate
+	•	count
+	•	reverse, rotate
+	•	lower_bound, upper_bound
+
+13. Multithreading & Concurrency
+	•	Introduction to threads
+	•	pthread basics
+	•	std::thread usage
+	•	Thread lifecycle
+	•	join & detach
+	•	Race conditions
+	•	Mutex (mutex, lock_guard, unique_lock)
+	•	Condition variables
+	•	Deadlocks & prevention
+	•	Atomic operations
+	•	Futures, promises & async
+
+14. System & Performance
+	•	Time complexity basics
+	•	Memory layout of a C++ program
+	•	Compilation pipeline (Preprocess → Compile → Link → Execute)
+	•	Inline assembly (optional)
+	•	Profiling basics
+
+15. Modern C++ (C++11 to C++20)
+	•	auto keyword
+	•	Range-based loops
+	•	Lambda expressions
+	•	Move semantics
+	•	Rvalue references
+	•	constexpr
+	•	Uniform initialization
+	•	Smart pointers (modern)
+	•	std::optional, std::variant, std::any
+	•	Structured bindings
+	•	Modern concurrency tools
+
+16. Projects (For Repository)
+
+Beginner Projects
+	•	Calculator
+	•	Student management system
+	•	Library management
+	•	ATM simulator
+
+Intermediate Projects
+	•	File compressor/extractor
+	•	Mini search engine (file indexing)
+	•	Contact manager
+	•	Banking system
+
+Advanced Projects
+	•	Thread pool implementation
+	•	Custom memory allocator
+	•	Producer-consumer system
+	•	Chat app using sockets
+	•	Traffic simulation (console)
+
+⸻
+
+This is your full A to Z C++ syllabus ready for GitHub indexing.
