@@ -13,15 +13,13 @@ C++ From Scratch to Advanced — Complete Syllabus (Index)
 	•	Variables & data types
 	•	Constants & literals
 	•	Operators (All types)
-	•	Input/Output (cin, cout)
-	•	Comments
+	•	Input/Output (cin, cout) & Comments
 	•	Control flow (if, else, switch)
 	•	Loops (for, while, do-while)
 	•	Break & continue
 
 3. Functions
-	•	Declaring & defining
-	•	Parameters & return values
+	•	Declaring & defining & Parameters & return values
 	•	Function overloading
 	•	Default arguments
 	•	Inline functions
